@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/areebatariq16/news_app.git/static/css/main.d8969e19.css",
+    "main.js": "/areebatariq16/news_app.git/static/js/main.a3489049.js",
+    "static/js/453.b2157c12.chunk.js": "/areebatariq16/news_app.git/static/js/453.b2157c12.chunk.js",
+    "index.html": "/areebatariq16/news_app.git/index.html",
+    "main.d8969e19.css.map": "/areebatariq16/news_app.git/static/css/main.d8969e19.css.map",
+    "main.a3489049.js.map": "/areebatariq16/news_app.git/static/js/main.a3489049.js.map",
+    "453.b2157c12.chunk.js.map": "/areebatariq16/news_app.git/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8969e19.css",
+    "static/js/main.a3489049.js"
+  ]
+}
